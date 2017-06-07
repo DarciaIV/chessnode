@@ -14,6 +14,6 @@ To build client code execute: `npm run build`
 Set environment variable `NODE_ENV` to `production`
 
 Windows: `set NODE_ENV=production`
-
+try
 Unix/Linux: `NODE_ENV=production <your_command_here>`
 ```
